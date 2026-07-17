@@ -51,7 +51,14 @@
 | **📐 Engineering & CAD** | <img src="https://img.shields.io/badge/Autodesk_Fusion-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion" /> &nbsp;&nbsp; `KOMPAS-3D` &nbsp;&nbsp; `3D-Druck / Prototypenbau` |
 | **🔬 Qualitätssicherung** | `3D-Koordinatenmesstechnik` • `Schadensanalyse` • `Metallurgie` • `Prozessoptimierung` |
 
----
+------
+
+## ⚡ GitHub Aktivität & Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_BENUTZERNAME&show_icons=true&theme=visual_studio_code&locale=de" alt="Bashars GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_BENUTZERNAME&layout=compact&theme=visual_studio_code&locale=de" alt="Top Langs" />
+</p>
 
 ## 📁 Highlight-Projekt
 
