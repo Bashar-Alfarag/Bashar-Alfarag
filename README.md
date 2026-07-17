@@ -41,7 +41,6 @@
         <li><b>Digital Engineering (B.Eng.):</b> Immatrikulierter Student (Start: 10/2026) an der Hochschule Albstadt-Sigmaringen, um die Digitalisierung der Industrie aktiv mitzugestalten.</li>
         <li><b>Certified Data Analyst:</b> Zertifizierter Microsoft Power BI Spezialist für industrielle Datenmodellierung.</li>
         <li><b>Certified SQL Associate:</b> Fundierte Kenntnisse in relationalen Datenbanken für komplexe Qualitätsanalysen.</li>
-        <li><b>Parallel zur Praxis:</b> Tätigkeit als Test Center Operator bei Hosokawa Alpine parallel zur akademischen Weiterbildung.</li>
       </ul>
     </td>
   </tr>
