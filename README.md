@@ -15,7 +15,7 @@
   </a>
 </p>
 
-🚀 *Ich verbinde über 8 Jahre fundierte Praxiserfahrung aus der industriellen Qualitätssicherung und der Teamleitung mit modernen Methoden der Datenanalyse. Mein Ziel ist es, die Schnittstelle zwischen klassischer Fertigungstechnik und digitaler Software- und Datentechnik aktiv zu gestalten.*
+🚀 *Ich verbinde über 8 Jahre fundierte Praxiserfahrung aus der industriellen Qualitätssicherung und der Teamleitung mit modernen Methoden der Datenanalyse. Mein Ziel ist es, die Schnittstelle zwischen klassischer QS, Fertigungstechnik und digitaler Software- und Datentechnik aktiv zu gestalten.*
 
 ---
 
