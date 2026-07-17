@@ -30,7 +30,7 @@
       <ul>
         <li><b>8,2 Jahre in der Qualitätssicherung (QS):</b> Tiefgehendes Know-how in Bauteilprüfungen, Prozesssicherheit und Fertigungsqualität.</li>
         <li><b>3 Jahre Führungserfahrung:</b> Erfolgreiche Steuerung und Organisation von Teams als Labor-Schichtleiter.</li>
-        <li><b>Geprüfter Industriemeister Metall (IHK):</b> Fachübergreifende Expertise in Metall- und Kunststofftechnik sowie Produktionsprozessen.</li>
+        <li><b>Geprüfter Industriemeister Metall (IHK):</b> Fachübergreifende Expertise in Metalltechnik sowie Produktionsprozessen.</li>
         <li><b>Ausbilder-Eignung (AEVO):</b> Zertifizierte Kompetenz in der Mitarbeiterförderung und Ausbildung.</li>
         <li><b>Zusatzqualifikation:</b> 6-monatige Praxiserfahrung als Elektrotechniker.</li>
       </ul>
