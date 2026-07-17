@@ -1,16 +1,13 @@
 <div align="center">
 
 # Hallo, ich bin Bashar Alfarag 👋
-### 🛠️ Industriemeister Metall & Zukünftiger Digital Engineer (B.Eng.)
-**Fokussiert auf datengetriebene Produktion und Qualitätssicherung**
 
----
+🔑 **Fokus:** 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=700&lines=Industriemeister+Metall+%E2%9A%99%EF%B8%8F;Zuk%C3%BCnftiger+Digital+Engineer+(B.Eng.)+%F0%9F%8E%93;Datengetriebene+Produktion+%F0%9F%93%8A;Automatisierte+Qualit%C3%A4tssicherung+%F0%9F%94%AC" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bashar-alfarag-meister/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil_besuchen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&black=true" alt="LinkedIn" />
-  </a>
-</p>
+</div>
 
 🚀 *Ich verbinde fundierte, jahrelange Praxiserfahrung aus dem Qualitätslabor und der Teamführung mit modernen Methoden der Datenanalyse. Mein Ziel ist es, die Brücke zwischen klassischer Qualitätssicherung und digitaler Automatisierung (Industrie 4.0) zu schlagen.*
 
