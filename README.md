@@ -1,36 +1,43 @@
 <div align="center">
 
 # Hallo, ich bin Bashar Alfarag 👋
-
 ### 🛠️ Industriemeister Metall & Zukünftiger Digital Engineer (B.Eng.)
 **Fokussiert auf datengetriebene Produktion und Qualitätssicherung**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bashar-alfarag-meister/?skipRedirect=true)
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bashar-alfarag-meister/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Profil_besuchen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&black=true" alt="LinkedIn" />
+  </a>
+</p>
+
+🚀 *Ich verbinde fundierte, jahrelange Praxiserfahrung aus dem Qualitätslabor und der Teamführung mit modernen Methoden der Datenanalyse. Mein Ziel ist es, die Brücke zwischen klassischer Qualitätssicherung und digitaler Automatisierung (Industrie 4.0) zu schlagen.*
 
 ---
 
-<p align="left">
-Ich verbinde fundierte, jahrelange Praxiserfahrung aus dem Qualitätslabor und der Teamführung mit modernen Methoden der Datenanalyse. Mein Ziel ist es, die Brücke zwischen klassischer Qualitätssicherung und digitaler Automatisierung (Industrie 4.0) zu schlagen.
-</p>
-
 </div>
 
-## 📌 Über mich
+## 📌 Kurzprofil & Meilensteine
 
 <table>
   <tr>
-    <td width="50%">
-      ⚡ <b>Mein Hintergrund</b><br>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Status-Experte-ff9900?style=flat-square" alt="Status" /><br><br>
+      <b>⚙️ Mein Hintergrund</b><br><hr>
       Geprüfter Industriemeister Metall (IHK) mit umfassender Erfahrung in 3D-Messtechnik, Werkstoffprüfung und Laborleitung.
     </td>
-    <td width="50%">
-      🎓 <b>Nächster Schritt</b><br>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Studium-10%2F2026-blue?style=flat-square" alt="Studium" /><br><br>
+      <b>🎓 Nächster Schritt</b><br><hr>
       Ab 10/2026 studiere ich immatrikuliert <b>Digital Engineering (B.Eng.)</b>, um QS- und Fertigungsprozesse durch Software- und Datentechnik zu digitalisieren.
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      📊 <b>Data & Code</b><br>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/Fokus-Data%20%26%20Code-brightgreen?style=flat-square" alt="Fokus" /><br><br>
+      <b>📊 Data & Code</b><br><hr>
       Ich automatisiere Qualitätsdaten und erstelle interaktive Dashboards für Root-Cause-Analysen.
     </td>
   </tr>
@@ -38,32 +45,24 @@ Ich verbinde fundierte, jahrelange Praxiserfahrung aus dem Qualitätslabor und d
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 🧰 Tech Stack & Kompetenzen
 
-| Kategorie | Technologien & Kompetenzen |
+| Bereich | Technologien & Tools |
 | :--- | :--- |
-| **📊 Datenanalyse & BI** | Microsoft Power BI (Certified Data Analyst), Excel-Analysen |
-| **🗄️ Datenbanken** | SQL (Certified SQL Associate) |
-| **🐍 Programmiersprachen** | Python *(im Aufbau)*, JavaScript *(Basics)* |
-| **📐 Engineering & CAD** | Autodesk Fusion, KOMPAS-3D, 3D-Druck / Prototypenbau |
-| **🔬 Qualitätssicherung** | 3D-Koordinatenmesstechnik, Schadensanalyse, Metallurgie, Prozessoptimierung |
+| **📊 Datenanalyse & BI** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" alt="Power BI" /> `Certified Data Analyst` <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" /> |
+| **🗄️ Datenbanken** | <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" /> `Certified SQL Associate` |
+| **🐍 Programmierung** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> *(im Aufbau)* &nbsp;&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" /> *(Basics)* |
+| **📐 Engineering & CAD** | <img src="https://img.shields.io/badge/Autodesk_Fusion-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion" /> &nbsp;&nbsp; `KOMPAS-3D` &nbsp;&nbsp; `3D-Druck / Prototypenbau` |
+| **🔬 Qualitätssicherung** | `3D-Koordinatenmesstechnik` • `Schadensanalyse` • `Metallurgie` • `Prozessoptimierung` |
 
 ---
 
-## 📁 Aktuelle Projekte in diesem Profil
+## 📁 Highlight-Projekt
 
-<blockquote>
-  <h3>📊 <a href="#">QS-Dashboard Nockenwelle</a></h3>
-  <p>Ein End-to-End Power BI-Projekt inklusive Datenmodellierung (Sternschema) und DAX-Programmierung zur automatisierten Ursachenforschung von Fertigungsausschuss.</p>
-</blockquote>
-
----
-
-<div align="center">
-
-### 📫 Lass uns vernetzen!
-Haben Sie Fragen zu meinen Projekten oder möchten Sie sich über Industrie 4.0 austauschen?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bashar%20Alfarag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bashar-alfarag-meister/?skipRedirect=true)
-
-</div>
+```mermaid
+graph LR
+    A[(Excel/ERP Rohdaten)] --> B(SQL Datenaufbereitung)
+    B --> C(Sternschema Modellierung)
+    C --> D[Power BI Dashboard]
+    D --> E{Automatisierte Ursachenforschung}
+    style D fill:#f9f,stroke:#333,stroke-width:2px
