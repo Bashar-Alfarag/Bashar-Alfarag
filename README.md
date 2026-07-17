@@ -10,6 +10,12 @@
 </div>
 🚀 *Ich verbinde fundierte, jahrelange Praxiserfahrung aus dem Qualitätslabor und der Teamführung mit modernen Methoden der Datenanalyse. Mein Ziel ist es, die Brücke zwischen klassischer Qualitätssicherung und digitaler Automatisierung (Industrie 4.0) zu schlagen.*
 
+| Bereich | Skill-Level |
+| :--- | :--- |
+| **📊 Power BI** | <progress value="90" max="100"></progress> **90%** |
+| **🗄️ SQL** | <progress value="85" max="100"></progress> **85%** |
+| **🐍 Python** | <progress value="40" max="100"></progress> **40%** *(im Aufbau)* |
+
 ---
 
 </div>
@@ -52,13 +58,6 @@
 | **🔬 Qualitätssicherung** | `3D-Koordinatenmesstechnik` • `Schadensanalyse` • `Metallurgie` • `Prozessoptimierung` |
 
 ------
-
-## ⚡ GitHub Aktivität & Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_BENUTZERNAME&show_icons=true&theme=visual_studio_code&locale=de" alt="Bashars GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_BENUTZERNAME&layout=compact&theme=visual_studio_code&locale=de" alt="Top Langs" />
-</p>
 
 ## 📁 Highlight-Projekt
 
