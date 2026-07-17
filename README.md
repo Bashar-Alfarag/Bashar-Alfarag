@@ -61,12 +61,20 @@
 
 ---
 
-## 📁 Highlight-Projekt
+## 📁 Aktuelle Projekte in diesem Profil
 
-```mermaid
-graph LR
-    A[(Maschinen- & ERP-Daten)] --> B(SQL Datenaufbereitung)
-    B --> C(Sternschema Modellierung)
-    C --> D[Power BI Dashboard]
-    D --> E{Automatisierte Ursachenforschung & Reduzierung von Ausschuss}
-    style D fill:#f9f,stroke:#333,stroke-width:2px
+<blockquote>
+  <h3>📊 <a href="#">QS-Dashboard Nockenwelle</a></h3>
+  <p>Ein End-to-End Power BI-Projekt inklusive Datenmodellierung (Sternschema) und DAX-Programmierung zur automatisierten Ursachenforschung von Fertigungsausschuss.</p>
+</blockquote>
+
+---
+
+<div align="center">
+
+### 📫 Lass uns vernetzen!
+Haben Sie Fragen zu meinen Projekten oder möchten Sie sich über Industrie 4.0 austauschen?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bashar%20Alfarag-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bashar-alfarag-meister/?skipRedirect=true)
+
+</div>
