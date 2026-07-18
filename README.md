@@ -54,7 +54,7 @@
 | **📊 Datenanalyse & BI** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" /> `Power BI (Certified)` <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> `Advanced Excel` | <progress value="90" max="100"></progress> **70%** |
 | **🗄️ Datenbanken** | <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> `SQL Queries, Joins, Window Functions` | <progress value="85" max="100"></progress> **65%** |
 | **🐍 Programmierung** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> `Python (Basics & Data Structures)` <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> `JS (Basics)` | <progress value="45" max="100"></progress> **40%** |
-| **📐 Engineering & CAD** | <img src="https://img.shields.io/badge/Autodesk_Fusion-0696D7?style=flat-square&logo=autodesk&logoColor=white" /> `Fusion` • `KOMPAS-3D` • `3D-Druck / Prototypenbau` | <progress value="75" max="100"></progress> **65%** |
+| **📐 Engineering & CAD** | <img src="https://img.shields.io/badge/Autodesk_Fusion-0696D7?style=flat-square&logo=autodesk&logoColor=white" />  • `KOMPAS-3D` • `3D-Druck / Prototypenbau` | <progress value="75" max="100"></progress> **65%** |
 | **🔬 Qualitätssicherung** | `3D-Koordinatenmesstechnik` • `Schadensanalyse` • `Metallurgie` • `Prozessoptimierung` | <progress value="95" max="100"></progress> **85%** |
 
 ---
