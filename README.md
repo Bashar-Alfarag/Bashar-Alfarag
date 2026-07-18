@@ -4,7 +4,7 @@
 🔑 **Fokus & Expertise:**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=45&pause=1000&color=0077B5&center=true&vCenter=true&width=1200&height=75&lines=Industriemeister+Metall+%E2%9A%99%EF%B8%8F;Digital+Engineering+(B.Eng.)+%F0%9F%8E%93;8%2B+Jahre+Erfahrung+in+der+Qualit%C3%A4tssicherung+%F0%9F%94%AC;Data+Analytics+%26+Industrie+4.0+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&pause=1000&color=0077B5&center=true&vCenter=true&width=1200&height=75&lines=Industriemeister+Metall+%E2%9A%99%EF%B8%8F;Digital+Engineering+(B.Eng.)+%F0%9F%8E%93;8%2B+Jahre+Erfahrung+in+der+Qualit%C3%A4tssicherung+%F0%9F%94%AC;Data+Analytics+%26+Industrie+4.0+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 ---
 
